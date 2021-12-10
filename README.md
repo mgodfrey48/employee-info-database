@@ -1,4 +1,6 @@
 # sql-challenge
-This repo contains all files and code for the SQL challenge assignment.
+This repo contains all files and code to produce the following, with relation to a dataset containing employee information:
+* A sketch of an ERD for employee data
+* A SQL table schema for employee data
+* Various SQL queries to pull out specific information
 
-In this assignment, I sketched out an ERD and created table schema for employee data, then ran various SQL queries to pull out specific information.
