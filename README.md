@@ -5,7 +5,7 @@ This repo contains all files and code to create a database containing employee i
 * `queries.sql` - Various SQL queries to pull out specific information
 * `EmployeeSQL`/`data` - CSV files containing all employee data
 
-## Instrucitons:
+## Instructions:
 1. Clone this repository to your computer
 2. Create a new database in pgAdmin called `Employee_Info`
 3. Open a query tool and run the commands from `table_schema.sql`
