@@ -1,4 +1,4 @@
-# Storing Employee Data
+# Employee Data Storage
 Using employee information from a hypothetical company contained in six CSV files, I create a table schema specifying data types, primary keys, foreign keys, and other constraints.
 
 ![image](https://user-images.githubusercontent.com/87830922/160930689-c9b256b0-2670-4b7c-bee7-2949fac1611a.png)
